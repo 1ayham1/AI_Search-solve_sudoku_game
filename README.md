@@ -1,7 +1,6 @@
+# Project 1: Udacity Artificial Intelligence and Specializations Nanodegree Program
 # Solve-a-Sudoku-with-AI
-Project 1: Udacity Artificial Intelligence and Specializations Nanodegree Program
 
-# Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
 
 # Question 1 (Naked Twins)
